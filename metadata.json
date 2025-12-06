@@ -1,0 +1,5 @@
+{
+  "name": "Exam Question Analytics",
+  "description": "Interactive dashboard and query system for exam question analysis, featuring data visualization and filtering.",
+  "requestFramePermissions": []
+}
